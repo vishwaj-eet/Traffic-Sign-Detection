@@ -71,7 +71,8 @@ python TrafficSign_Test.py
 - 📉 MaxPooling2D (2×2)  
 - 🧩 Conv2D (30 filters, 3×3) → ReLU  
 - 🧩 Conv2D (30 filters, 3×3) → ReLU  
-- 📉 MaxPooling2D (2×2)  
+- 📉 MaxPooling2D (2×2)
+- 🔁 Dropout(0.5)  
 - 🧱 Flatten  
 - 🎯 Dense(500) → ReLU  
 - 🔁 Dropout(0.5)  
