@@ -104,7 +104,7 @@ pip install -r requirements.txt
 ## 📈 Sample Output
 
 Real-time recognition via webcam showing predicted class and confidence score:
-- CLASS: 1 - STOP 
+- CLASS: 9 - No Passing 
 - PROBABILITY: 99.96%
 ![image](https://github.com/user-attachments/assets/4b93db89-c657-4c9b-9d51-a21bec4aff1e)
 
