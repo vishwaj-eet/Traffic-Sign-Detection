@@ -109,7 +109,7 @@ Real-time recognition via webcam showing predicted class and confidence score:
 
 ---
 
-## 📃Reffernces
+## 📃References
 
 - Qiao, X. (2023). *Research on Traffic Sign Recognition Based on CNN Deep Learning Network*. Procedia Computer Science, 228, 826–837. [https://doi.org/10.1016/j.procs.2023.11.102](https://doi.org/10.1016/j.procs.2023.11.102)
 
